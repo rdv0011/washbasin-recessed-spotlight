@@ -4,14 +4,15 @@
 
 [LED 12V power supply example](https://www.wish.com/product/5b739aba85276f4d7be6cf43).
 
-Any 12V DC power supply with a current of at least 250mA will do. The height of the power supply must accommodate the limited space inside the vanity unit.
+Any 12V DC power supply with a current of at least 250mA will do. The height of the power supply must accommodate the limited space inside the washbasin furniture.
 
 ![Final light on](final_lighton.jpeg)
 ![Final light off](final_lightoff.jpeg)
 
 [Aluminum radiator 100x25](https://www.wish.com/search/aluminum%20radiator/product/5ae2c8115194c93728249dd5?source=search&position=48)
 
-[Warm white LED](https://www.wish.com/search/LED%203W/product/5957245b2038c73845957045?source=search&position=8)
+[3W Warm white LED](https://www.wish.com/search/LED%203W/product/5957245b2038c73845957045?source=search&position=8)
+It is better to use 3W not 1W LED chip. 
 
 All necessary parts
 
@@ -56,7 +57,7 @@ To complete the heatsink assembly, unseal the washers and use screws to secure t
 
 [Washer STL file](light_washer.stl)
 
-The screw diameter is 3 mm, length is 10 mm.
+The screw diameter is 3 mm, the length is 10 mm. Five screws are needed total for one spotlight.
 
 ![Screw](screw.jpeg)
 ![LEDs assembled](leds_assembled.jpeg)
@@ -88,7 +89,7 @@ Remove the old glass light diffuser and install the previously printed plastic l
 ![Lisght diffuser back](light_diffuser_installed_back.jpeg)
 ![Light diffuser front](light_diffuser_installed_front.jpeg)
 
-Remove the old halogen transformer and associated wires and replace it with a new 12V LED transformer in the vanity unit. Install the LED spotlight into the furniture and connect the wires. To connect two spotlights to one transformer, you can use a 2 to 4 splitter.
+Remove the old halogen transformer and associated wires and replace it with a new 12V LED transformer in the washbasin furniture. Install the LED spotlight into the furniture and connect the wires. To connect two spotlights to one transformer, you can use a 2 to 4 splitter.
 [Wrire splitter](https://www.wish.com/search/wire%20splitter/product/6412b6e2b64cc73cb05a2703?source=search&position=14)
 
 The wire layout inside a washbasin furniture
