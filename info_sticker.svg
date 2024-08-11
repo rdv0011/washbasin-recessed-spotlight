@@ -1,0 +1,490 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   sodipodi:docname="circuit3.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showguides="true"
+     inkscape:zoom="1.070259"
+     inkscape:cx="308.80375"
+     inkscape:cy="263.95479"
+     inkscape:window-width="1312"
+     inkscape:window-height="796"
+     inkscape:window-x="294"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1">
+    <sodipodi:guide
+       position="7.4164287,285.87536"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="19.529929,292.55015"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <text
+       x="14.339937"
+       y="12.12763"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:start;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text1"
+       transform="scale(1.1682157,0.85600631)">12V 125mA</text>
+    <line
+       x1="34.451393"
+       y1="7.4993086"
+       x2="34.451393"
+       y2="8.6521168"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line1" />
+    <line
+       x1="32.878124"
+       y1="8.6521168"
+       x2="36.024662"
+       y2="8.6521168"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line2" />
+    <line
+       x1="33.468109"
+       y1="9.5167265"
+       x2="35.434677"
+       y2="9.5167265"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line3" />
+    <line
+       x1="34.058075"
+       y1="10.381328"
+       x2="34.844711"
+       y2="10.381328"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line4" />
+    <path
+       d="m 11.835679,6.6347087 h 1.966584 L 12.818971,5.1936972 Z"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path4" />
+    <line
+       x1="12.818974"
+       y1="6.6347075"
+       x2="12.818974"
+       y2="7.4993086"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line5" />
+    <text
+       x="9.9630766"
+       y="6.7407289"
+       style="font-size:2.02009px;font-family:Arial;text-anchor:end;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text5"
+       transform="scale(1.1682157,0.85600631)">+12V</text>
+    <line
+       x1="12.818974"
+       y1="7.4993086"
+       x2="16.752138"
+       y2="7.4993086"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line6" />
+    <line
+       x1="14.785553"
+       y1="7.4993086"
+       x2="20.685299"
+       y2="7.4993086"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line7" />
+    <path
+       d="m 19.112039,7.4993135 m 0,-1.1528082 V 8.652116 m 0,-1.1528025 -2.949875,1.1528025 V 6.3465053 l 2.949875,1.1528082"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path7" />
+    <path
+       d="M 18.71872,7.4993135 M 18.325408,5.914203 19.89867,4.7613948 m 0.196663,-0.144099 -0.786638,0.2882034 0.393319,0.288198 0.393319,-0.5764014 -0.786638,0.2882034"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path8" />
+    <path
+       d="M 18.71872,7.4993135 M 19.505358,6.9229067 21.07862,5.770104 m 0.196664,-0.1441044 -0.786639,0.2882034 0.393319,0.2882033 0.39332,-0.5764067 -0.786639,0.2882034"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path9" />
+    <line
+       x1="20.685299"
+       y1="7.4993086"
+       x2="23.635174"
+       y2="7.4993086"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line9" />
+    <line
+       x1="31.501518"
+       y1="7.4993086"
+       x2="34.451393"
+       y2="7.4993086"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line10" />
+    <rect
+       x="23.635174"
+       y="6.3465014"
+       width="7.8663349"
+       height="2.3056128"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682"
+       id="rect10" />
+    <text
+       x="23.598688"
+       y="6.4040418"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:middle;stroke-width:0.168341"
+       dominant-baseline="baseline"
+       id="text10"
+       transform="scale(1.1682157,0.85600631)">4 Ω</text>
+    <text
+       x="44.950977"
+       y="11.953671"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:start;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text1-9"
+       transform="scale(1.1682157,0.85600631)">12V 125mA</text>
+    <line
+       x1="70.211693"
+       y1="7.3503976"
+       x2="70.211693"
+       y2="8.5032072"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line1-7" />
+    <line
+       x1="68.63842"
+       y1="8.5032072"
+       x2="71.784958"
+       y2="8.5032072"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line2-0" />
+    <line
+       x1="69.228409"
+       y1="9.367816"
+       x2="71.194977"
+       y2="9.367816"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line3-3" />
+    <line
+       x1="69.818375"
+       y1="10.232417"
+       x2="70.605011"
+       y2="10.232417"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line4-9" />
+    <path
+       d="m 47.595974,6.485797 h 1.966584 L 48.579266,5.044785 Z"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path4-8" />
+    <line
+       x1="48.579269"
+       y1="6.4857965"
+       x2="48.579269"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line5-6" />
+    <text
+       x="40.574112"
+       y="6.5667682"
+       style="font-size:2.02009px;font-family:Arial;text-anchor:end;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text5-5"
+       transform="scale(1.1682157,0.85600631)">+12V</text>
+    <line
+       x1="48.579269"
+       y1="7.3503976"
+       x2="52.512436"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line6-7" />
+    <line
+       x1="50.545853"
+       y1="7.3503976"
+       x2="56.445595"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line7-6" />
+    <path
+       d="m 54.872334,7.350401 m 0,-1.152808 v 2.305611 m 0,-1.152803 -2.949875,1.152803 V 6.197593 l 2.949875,1.152808"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path7-2" />
+    <path
+       d="M 54.479015,7.350401 M 54.085703,5.765291 55.658965,4.612483 M 55.855628,4.468384 55.06899,4.756587 55.462309,5.044785 55.855628,4.468384 55.06899,4.756587"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path8-7" />
+    <path
+       d="M 54.479015,7.350401 M 55.265653,6.773995 56.838915,5.621192 M 57.035579,5.477088 56.24894,5.765291 56.642259,6.053494 57.035579,5.477088 56.24894,5.765291"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path9-0" />
+    <line
+       x1="56.445595"
+       y1="7.3503976"
+       x2="59.39547"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line9-3" />
+    <line
+       x1="67.261818"
+       y1="7.3503976"
+       x2="70.211693"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line10-9" />
+    <rect
+       x="59.39547"
+       y="6.1975884"
+       width="7.8663349"
+       height="2.3056128"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682"
+       id="rect10-9" />
+    <text
+       x="54.209732"
+       y="6.230083"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:middle;stroke-width:0.168341"
+       dominant-baseline="baseline"
+       id="text10-9"
+       transform="scale(1.1682157,0.85600631)">4 Ω</text>
+    <text
+       x="73.942505"
+       y="11.953671"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:start;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text1-3"
+       transform="scale(1.1682157,0.85600631)">12V 125mA</text>
+    <line
+       x1="104.08005"
+       y1="7.3503976"
+       x2="104.08005"
+       y2="8.5032072"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line1-6" />
+    <line
+       x1="102.50677"
+       y1="8.5032072"
+       x2="105.65331"
+       y2="8.5032072"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line2-5" />
+    <line
+       x1="103.09676"
+       y1="9.367816"
+       x2="105.06333"
+       y2="9.367816"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line3-5" />
+    <line
+       x1="103.68673"
+       y1="10.232417"
+       x2="104.47337"
+       y2="10.232417"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line4-8" />
+    <path
+       d="m 81.464333,6.485797 h 1.966584 L 82.447625,5.044785 Z"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path4-1" />
+    <line
+       x1="82.447624"
+       y1="6.4857965"
+       x2="82.447624"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line5-4" />
+    <text
+       x="69.565643"
+       y="6.5667682"
+       style="font-size:2.02009px;font-family:Arial;text-anchor:end;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text5-7"
+       transform="scale(1.1682157,0.85600631)">+12V</text>
+    <line
+       x1="82.447624"
+       y1="7.3503976"
+       x2="86.380791"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line6-1" />
+    <line
+       x1="84.414207"
+       y1="7.3503976"
+       x2="90.31395"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line7-3" />
+    <path
+       d="m 88.740693,7.350401 m 0,-1.152808 v 2.305611 m 0,-1.152803 -2.949875,1.152803 V 6.197593 l 2.949875,1.152808"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path7-8" />
+    <path
+       d="m 88.347374,7.350401 m -0.393312,-1.58511 1.573262,-1.152808 m 0.196663,-0.144099 -0.786638,0.288203 0.393319,0.288198 0.393319,-0.576401 -0.786638,0.288203"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path8-4" />
+    <path
+       d="m 88.347374,7.350401 m 0.786638,-0.576406 1.573262,-1.152803 m 0.196664,-0.144104 -0.786639,0.288203 0.393319,0.288203 0.39332,-0.576406 -0.786639,0.288203"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path9-8" />
+    <line
+       x1="90.31395"
+       y1="7.3503976"
+       x2="93.263824"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line9-0" />
+    <line
+       x1="101.13017"
+       y1="7.3503976"
+       x2="104.08005"
+       y2="7.3503976"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line10-4" />
+    <rect
+       x="93.263824"
+       y="6.1975884"
+       width="7.8663349"
+       height="2.3056128"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682"
+       id="rect10-6" />
+    <text
+       x="83.201256"
+       y="6.230083"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:middle;stroke-width:0.168341"
+       dominant-baseline="baseline"
+       id="text10-0"
+       transform="scale(1.1682157,0.85600631)">4 Ω</text>
+    <text
+       x="101.87595"
+       y="12.283051"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:start;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text1-94"
+       transform="scale(1.1682157,0.85600631)">12V 125mA</text>
+    <line
+       x1="136.71234"
+       y1="7.63235"
+       x2="136.71234"
+       y2="8.7851591"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line1-1" />
+    <line
+       x1="135.13907"
+       y1="8.7851591"
+       x2="138.2856"
+       y2="8.7851591"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line2-3" />
+    <line
+       x1="135.72905"
+       y1="9.6497679"
+       x2="137.69562"
+       y2="9.6497679"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line3-7" />
+    <line
+       x1="136.31902"
+       y1="10.514369"
+       x2="137.10565"
+       y2="10.514369"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line4-88" />
+    <path
+       d="m 114.09662,6.7677494 h 1.96659 l -0.9833,-1.441012 z"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path4-3" />
+    <line
+       x1="115.07992"
+       y1="6.7677488"
+       x2="115.07992"
+       y2="7.63235"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line5-8" />
+    <text
+       x="97.499092"
+       y="6.8961492"
+       style="font-size:2.02009px;font-family:Arial;text-anchor:end;stroke-width:0.168341"
+       dominant-baseline="middle"
+       id="text5-1"
+       transform="scale(1.1682157,0.85600631)">+12V</text>
+    <line
+       x1="115.07992"
+       y1="7.63235"
+       x2="119.01308"
+       y2="7.63235"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line6-5" />
+    <line
+       x1="117.0465"
+       y1="7.63235"
+       x2="122.94624"
+       y2="7.63235"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line7-35" />
+    <path
+       d="m 121.37298,7.6323534 m 0,-1.152808 v 2.305611 m 0,-1.152803 -2.94987,1.152803 v -2.305611 l 2.94987,1.152808"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path7-4" />
+    <path
+       d="m 120.97966,7.6323534 m -0.39331,-1.58511 1.57326,-1.152808 m 0.19667,-0.144099 -0.78664,0.288203 0.39332,0.288198 0.39332,-0.576401 -0.78664,0.288203"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path8-3" />
+    <path
+       d="m 120.97966,7.6323534 m 0.78664,-0.576406 1.57326,-1.152803 m 0.19667,-0.144104 -0.78664,0.288203 0.39332,0.288203 0.39332,-0.576406 -0.78664,0.288203"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="path9-6" />
+    <line
+       x1="122.94624"
+       y1="7.63235"
+       x2="125.89612"
+       y2="7.63235"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line9-5" />
+    <line
+       x1="133.76247"
+       y1="7.63235"
+       x2="136.71234"
+       y2="7.63235"
+       style="stroke:#000000;stroke-width:0.336682;stroke-linecap:square"
+       id="line10-95" />
+    <rect
+       x="125.89612"
+       y="6.4795408"
+       width="7.8663349"
+       height="2.3056128"
+       style="fill:#000000;fill-opacity:0;stroke:#000000;stroke-width:0.336682"
+       id="rect10-4" />
+    <text
+       x="111.1347"
+       y="6.559464"
+       style="font-size:1.85175px;font-family:Arial;text-anchor:middle;stroke-width:0.168341"
+       dominant-baseline="baseline"
+       id="text10-91"
+       transform="scale(1.1682157,0.85600631)">4 Ω</text>
+    <path
+       style="fill:#000000;stroke:#020202;stroke-width:0.264583;stroke-opacity:1"
+       d="M 6.9220001,11.619072 H 170.33064 v 0"
+       id="path2" />
+    <path
+       style="fill:#000000;stroke:#020202;stroke-width:0.264583;stroke-opacity:1"
+       d="M 6.674786,3.7114908 H 170.08343 v 0"
+       id="path2-0" />
+  </g>
+</svg>
