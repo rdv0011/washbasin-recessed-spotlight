@@ -12,7 +12,7 @@ Any 12V DC power supply with a current of at least 250mA will do. The height of 
 [Aluminum radiator 100x25](https://www.wish.com/search/aluminum%20radiator/product/5ae2c8115194c93728249dd5?source=search&position=48)
 
 [3W Warm white LED](https://www.wish.com/search/LED%203W/product/5957245b2038c73845957045?source=search&position=8)
-It is better to use 3W not 1W LED chip. 
+It is better to use 3W not 1W LED chip. The 3W LED has 2.9V drop wich for 4 LEDs gives 11.6V. This power supply output is 12.12v. The difference is 12.12 - 11.6 = 0.52V. If we want current to be 0.125A then resistor nominal is 0.52V / 0.125A = approx. 4 Ohm. With the current 0.125A four LEDs do not heat up more than 60C. The current limiting resistor dissipates 0.065W.
 
 All necessary parts
 
